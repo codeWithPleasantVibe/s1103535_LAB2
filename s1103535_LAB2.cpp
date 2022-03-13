@@ -20,7 +20,7 @@ int main()
         if (myWeight < 20 or myWeight > 200)//didn't meet the requirement
         {
             cout << "# Invalid weight (>= 20kg and <= 200kg)" << endl;
-            cout << endl;
+            cout << "\n";
         }
         else if (myHeight < 0.9 or myHeight > 2.5) //didn't meet the requirement
         {
